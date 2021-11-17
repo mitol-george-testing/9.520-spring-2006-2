@@ -1,0 +1,41 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "5f6bd7a0-06b9-c3c4-8759-e6aab3545d24"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Statistical Learning Theory and Applications",
+  "course_description": "This course is for upper-level graduate students who are planning careers in computational neuroscience. This course focuses on the problem of supervised learning from the perspective of modern statistical learning theory starting with the theory of multivariate function approximation from sparse data. It develops basic tools such as Regularization including Support Vector Machines for regression and classification. It derives generalization bounds using both stability and VC theory. It also discusses topics such as boosting and feature selection and examines applications in several areas: Computer Vision, Computer Graphics, Text Classification, and Bioinformatics. The final projects, hands-on applications, and exercises are designed to\u00a0illustrate the rapidly increasing practical uses of the techniques described throughout the course.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.520",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
